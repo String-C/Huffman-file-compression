@@ -1,4 +1,4 @@
-# Huffman-
+# Huffman-file-compression
 cs专业 数据结构(Java)课设  
 但此课设代码仍有不完善之处！！！但基本上符合题目要求  
 以下是课设的题目  
